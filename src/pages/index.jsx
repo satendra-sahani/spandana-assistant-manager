@@ -237,7 +237,7 @@ export default function Home() {
               Get in Touch
             </motion.a>
             <motion.a
-              href="/resume.pdf"
+              href="Spandana_Kunder_Resume.docx"
               download
               className="bg-white text-indigo-600 px-8 py-3 rounded-full font-semibold border-2 border-indigo-600 hover:bg-indigo-100 transition duration-300 shadow-lg"
               whileHover={{ scale: 1.05 }}
